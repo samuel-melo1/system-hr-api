@@ -8,7 +8,7 @@ Esse é um projeto construído em  **Java com Spring Boot e banco de dados H2 e 
 
 A API simula um sistema de recursos humanos construído em uma arquitetura de microsserviços, responsável pela realização de pagamentos de funcionários. Tendo uma api responsável pelo controle de usuários e outra para pagamentos.
 
-## Table of Contents
+## Conteúdos
 
 - [Instalação](#instalação)
 - [Usabilidade](#usabilidade)
