@@ -2,6 +2,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/dockerhub-images-important.svg?logo=Docker)
 
 Esse é um projeto construído em  **Java com Spring Boot e banco de dados H2 e JPA com Hibernate. Load Balancing, OpenFeign e API Gateway, Lombok, Spring Cloud, Docker e Git/Github .** 
 
